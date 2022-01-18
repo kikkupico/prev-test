@@ -1,0 +1,7 @@
+version: 3
+endpoint: https://grateful-heron-42.hasura.app
+admin_secret: ZGN7urGqrqh7PAbFAHjK5v36D53pLj7ALTByloHbg11o1AL9LxSZ07bfUbOxmnzj
+metadata_directory: metadata
+actions:
+  kind: synchronous
+  handler_webhook_baseurl: http://localhost:3000
