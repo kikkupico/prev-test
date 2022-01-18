@@ -1,2 +1,3 @@
+- "!include public_shows.yaml"
 - "!include public_tickets.yaml"
 - "!include public_user.yaml"
